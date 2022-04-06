@@ -1,0 +1,10 @@
+<resources>
+    <string name="mapbox_access_token">pk.eyJ1IjoicGFzbHRlbXBzIiwiYSI6ImNsMWt4amNhajA1Z2Qzam15a2h5aDU0M3AifQ.Q6vLivVrhvwt5134mnQodQ</string>
+    <string name="app_name">Go4Lunch</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map_view">Map View</string>
+    <string name="list_view">List View</string>
+    <string name="workmates">Workmates</string>
+</resources>
