@@ -3,10 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/activity_firebase_ui.xml" value="0.2713541666666667" />
         <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/activity_maps.xml" value="0.21822916666666667" />
+        <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/fragment_dashboard.xml" value="0.21822916666666667" />
         <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/fragment_map.xml" value="0.28541666666666665" />
         <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/fragment_maps.xml" value="0.28541666666666665" />
+        <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/fragment_notifications.xml" value="0.21822916666666667" />
+        <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/layout/fragment_users.xml" value="0.22447916666666667" />
         <entry key="..\:/Applications/Android Studio Applications/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Applications/Go4Lunch/app/src/main/res/layout/fragment_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Applications/Go4Lunch/app/src/main/res/layout/fragment_users.xml" value="0.18802083333333333" />
+        <entry key="..\:/Applications/Go4Lunch/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18802083333333333" />
       </map>
     </option>
   </component>

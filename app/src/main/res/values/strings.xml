@@ -1,10 +1,22 @@
 <resources>
-    <string name="mapbox_access_token">pk.eyJ1IjoicGFzbHRlbXBzIiwiYSI6ImNsMWt4amNhajA1Z2Qzam15a2h5aDU0M3AifQ.Q6vLivVrhvwt5134mnQodQ</string>
+    <string name="facebook_application_id">3125344684348081</string>
+    <string name="fb_login_protocol_scheme">fb3125344684348081</string>
+
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
     <string name="app_name">Go4Lunch</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
     <string name="map_view">Map View</string>
     <string name="list_view">List View</string>
     <string name="workmates">Workmates</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>
