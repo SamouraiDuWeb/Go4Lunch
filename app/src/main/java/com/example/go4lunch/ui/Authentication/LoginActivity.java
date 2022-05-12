@@ -52,9 +52,8 @@ public class LoginActivity extends AppCompatActivity {
 
     private void initView() {
         providers = Arrays.asList(
-                new AuthUI.IdpConfig.GoogleBuilder().build(),
-                new AuthUI.IdpConfig.FacebookBuilder().build()
-        );
+                new AuthUI.IdpConfig.GoogleBuilder().build());
+//                new AuthUI.IdpConfig.FacebookBuilder().build()
 
         mAuth = FirebaseAuth.getInstance();
         mAuthListener = new FirebaseAuth.AuthStateListener() {
